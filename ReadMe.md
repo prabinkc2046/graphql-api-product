@@ -8,9 +8,9 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone <repository-url>
+git clone https://github.com/prabinkc2046/graphql-api-product.git
 
-2. git clone <repository-url>
+2. Install dependencies
 
 npm install
 
